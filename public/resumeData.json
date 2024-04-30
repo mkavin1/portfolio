@@ -3,7 +3,7 @@
     "firstName": "KAVIN",
     "name": "KAVIN M ",
     "occupation": "programmer",
-    "bio": "My name is Kavin, I am interested in devops and I completed valuavle certification in devops",
+    "bio": "My name is Kavin, I am interested in devops and I completed valuable certification in devops",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "kavinmcse@gmail.com",
     "address": {
@@ -24,39 +24,16 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am well versed in using React.JS as my main Front end tech stack along with Redux and Firebase",
+    "skillmessage": "I am well versed in using Devops.I am interested ",
     "education": [
       {
         "school": "University of Wesminster",
-        "degree": "Bachelors of Science in Multimedia Computing",
-        "graduated": "June 2015",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Synechron",
-        "title": "Front end Developer",
-        "years": "March 2018 - Present",
-        "description": "Develop cutting edge FinTech applications for leading banks such as HSBC"
-      },
-      {
-        "company": "Red Apple Creative",
-        "title": "Front end Developer",
-        "years": "Nov 2016 - March 2018",
-        "description": "Rapdily build React driven campaign applications for exciting companies such as Spotify, Disney and Bose"
-      },
-
-      {
-        "company": "Foxtons",
-        "title": "Junior Developer",
-        "years": "Dev 2014 - Nov 2016",
-        "description": "Updating and maintaining London's leading Real Estate Agency website and internal Intranet"
+        "degree": "Bachelors of engineering in computer science"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Ui/Ux",
         "level": "100%"
       },
       {
@@ -103,13 +80,13 @@
       },
       {
         "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Airbnb Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
