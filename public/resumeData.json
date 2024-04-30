@@ -1,38 +1,24 @@
 {
   "main": {
-    "firstName": "Jeff",
-    "name": "Jeff Torres",
-    "occupation": "Front end Developer",
-    "description": "Developer by day, Dancer by night",
-    "image": "jeff-cropped.jpg",
-    "bio": "My name is Gerald but I go by my middle name Jeff, I'm a Front end developer and React.js enthusiast. I was born and raised in London but now I work in Dubai",
+    "firstName": "KAVIN",
+    "name": "KAVIN M ",
+    "occupation": "programmer",
+    "bio": "My name is Kavin, I am interested in devops and I completed valuavle certification in devops",
     "contactmessage": "Get in touch with me to receive further details.",
-    "email": "geraldjtorres@gmail.com",
+    "email": "kavinmcse@gmail.com",
     "address": {
-      "city": "London",
-      "state": "UK"
+      "city": "coimbatore",
+      "state": "TamilNadu"
     },
-    "website": "https://teamtreehouse.com/geraldtorres",
-    "resumedownload": "https://drive.google.com/file/d/1m10ZxypPLiEzUgH8DmYVWTAi00G90gZR/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/gerald.j.torres.7/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/gerald-jeff-torres-92a24a94/",
+        "url": "https://www.linkedin.com/in/kavinm26/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/jeff.torres_/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/geraldjtorres",
+        "url": "https://github.com/mkavin1",
         "className": "fa fa-github"
       }
     ]
